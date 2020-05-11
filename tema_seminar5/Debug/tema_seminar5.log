@@ -1,0 +1,8 @@
+﻿  AutoController.cpp
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\CrudRepository.h(52,17): warning C4018: '>': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\CrudRepository.h(54,21): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\CrudRepository.h(66,21): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\CrudRepository.h(74,17): warning C4018: '>': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\CrudRepository.h(76,21): warning C4018: '<': signed/unsigned mismatch
+D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\CrudRepository.h(87,21): warning C4018: '<': signed/unsigned mismatch
+  tema_seminar5.vcxproj -> D:\ionut\Info\Faculta\sem II\POO - Programare Orientata pe Obiect ( Rusu Catalin, Manda Iulian )\Seminare\s5Root\tema_seminar5\Debug\tema_seminar5.exe
